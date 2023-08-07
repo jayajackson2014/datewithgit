@@ -1,6 +1,3 @@
 hello Jaya, How are you?
-<<<<<<< HEAD
-I am not well.
-=======
-I am fine.
->>>>>>> master
+I am not well
+I am fine
